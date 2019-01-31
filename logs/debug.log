@@ -1,0 +1,16 @@
+2019-01-31 23:03:32 - Starting DemoGuiApplication on admin-PC with PID 5500 (D:\Workspace\DemoGui\target\classes started by admin in D:\Workspace\DemoGui)
+2019-01-31 23:03:32 - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2019-01-31 23:03:32 - No active profile set, falling back to default profiles: default
+2019-01-31 23:03:34 - Started DemoGuiApplication in 1.695 seconds (JVM running for 2.508)
+2019-01-31 23:05:35 [main] INFO  com.example.demo.DemoGuiApplication - Starting DemoGuiApplication on admin-PC with PID 1060 (D:\Workspace\DemoGui\target\classes started by admin in D:\Workspace\DemoGui)
+2019-01-31 23:05:35 [main] DEBUG com.example.demo.DemoGuiApplication - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2019-01-31 23:05:35 [main] INFO  com.example.demo.DemoGuiApplication - No active profile set, falling back to default profiles: default
+2019-01-31 23:05:37 [main] INFO  com.example.demo.DemoGuiApplication - Started DemoGuiApplication in 1.663 seconds (JVM running for 2.32)
+2019-01-31 23:10:51 [main] INFO  com.example.demo.DemoGuiApplication - Starting DemoGuiApplication on admin-PC with PID 1868 (D:\Workspace\DemoGui\target\classes started by admin in D:\Workspace\DemoGui)
+2019-01-31 23:10:51 [main] DEBUG com.example.demo.DemoGuiApplication - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2019-01-31 23:10:51 [main] INFO  com.example.demo.DemoGuiApplication - The following profiles are active: dev
+2019-01-31 23:10:53 [main] INFO  com.example.demo.DemoGuiApplication - Started DemoGuiApplication in 2.018 seconds (JVM running for 2.938)
+2019-01-31 23:11:45 [main] INFO  com.example.demo.DemoGuiApplication - Starting DemoGuiApplication on admin-PC with PID 4516 (D:\Workspace\DemoGui\target\classes started by admin in D:\Workspace\DemoGui)
+2019-01-31 23:11:45 [main] DEBUG com.example.demo.DemoGuiApplication - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2019-01-31 23:11:45 [main] INFO  com.example.demo.DemoGuiApplication - The following profiles are active: prod
+2019-01-31 23:11:47 [main] INFO  com.example.demo.DemoGuiApplication - Started DemoGuiApplication in 1.666 seconds (JVM running for 2.336)

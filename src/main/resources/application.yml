@@ -1,0 +1,37 @@
+spring:
+  profiles:
+    active:
+    - prod
+---
+spring:
+  profiles:
+    include:
+    - dev  
+logging.file: d:/Sample/temp1.log
+logging:
+  level:
+    root: info
+  file:
+    max-history: 10
+    max-size: 10MB
+  pattern:
+    console: '%d %-5level %logger : %msg%n'
+    file: '%d %-5level [%thread] %logger : %msg%n'
+    level: INFO
+    
+---
+spring:
+  profiles:
+    include:
+    - prod
+logging.file: d:/Sample/temp2.log
+logging:
+  level:
+    root: info
+  file:
+    max-history: 10
+    max-size: 10MB
+  pattern:
+    console: '%d %-5level %logger : %msg%n'
+    file: '%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n'
+    level: INFO
